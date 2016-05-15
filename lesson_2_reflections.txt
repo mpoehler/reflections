@@ -24,3 +24,7 @@ Deleting a branch means deleting the label...
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The result of a merge is a commit with two parent commits. 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merges not necessarily let the code work... so you need to check that the code works after the commit in every case. But if the changes are really unrelated, the automatic merge saves time.
