@@ -18,3 +18,9 @@ when you need to add funcionalities where you aren't sure that it comes into the
 How do the diagrams help you visualize the branch structure?
 
 You see easily which commits are reachable thru which branch.
+
+Deleting a branch means deleting the label...
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result of a merge is a commit with two parent commits. 
