@@ -14,3 +14,7 @@ just add only files for a logical change to the staging area and then commit it.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 when you need to add funcionalities where you aren't sure that it comes into the master branch. Also if you have issues that require more than one commit branches are worthful - they group all commits when the branch is merged into the master.
+
+How do the diagrams help you visualize the branch structure?
+
+You see easily which commits are reachable thru which branch.
