@@ -6,3 +6,11 @@ How is the staging area different from the working directory and the repository?
 
 The staging area is used to prepare commits. You add all files for a commit (aka logical change) to
 the staging area before commit moves the staging area into the repository.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+just add only files for a logical change to the staging area and then commit it. Repeat this for every logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+when you need to add funcionalities where you aren't sure that it comes into the master branch. Also if you have issues that require more than one commit branches are worthful - they group all commits when the branch is merged into the master.
